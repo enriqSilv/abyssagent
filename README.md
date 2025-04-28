@@ -1,4 +1,4 @@
-#🧠 Criação de Agentes de Inteligência Artificial: Do Zero ao Deploy
+# 🧠 Criação de Agentes de Inteligência Artificial: Do Zero ao Deploy
 
 Este projeto demonstra a criação de agentes de inteligência artificial capazes de perceber, raciocinar e agir autonomamente. O projeto inclui o desenvolvimento de:
 
